@@ -16,3 +16,4 @@ In this project here is a rundown of what I was able to do:
 *  Become familiar with C strings, bitwise operations, and dynamic memory allocation (malloc and free).
 *  Understand the difference between ASCII and Unicode character representations.
 
+<img src-"game over standard .png">
