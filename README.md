@@ -1,5 +1,5 @@
 <h1>Snake project public</h1>
-Snake project for class public repo
+Snake project for class public repository
 
 [Here's the course page where you can see the different assignments we do!](https://csci0300.github.io/index.html)
 
