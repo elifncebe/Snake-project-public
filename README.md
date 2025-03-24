@@ -1,7 +1,7 @@
 # Snake project public
 Snake project for class public repo
 
-[Here's the course page where you can see the different assignments we do!]([https://www.google.com](https://csci0300.github.io/index.html)
+[Here's the course page where you can see the different assignments we do!](https://csci0300.github.io/index.html)
 
 
 Snake was my first project in C!
